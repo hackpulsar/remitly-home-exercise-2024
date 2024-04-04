@@ -3,7 +3,7 @@
 
 TEST_CASE("Verify input JSON data.", "[verify_role_policy_resource]")
 {
-    json j = read_role_policy_from_file("role_policy.json");
+    json j = read_role_policy_from_file("example_role_policy.json");
 
     REQUIRE(verify_role_policy_resource(j) == false);
 
