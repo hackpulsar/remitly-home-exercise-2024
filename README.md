@@ -1,6 +1,6 @@
 # remitly-home-exercise-2024
 
-## How to run
+## ⏩ How to run
 
 1. Clone the repository with `git clone --recurse-submodules https://github.com/hackpulsar/remitly-home-exercise-2024`
 2. Run `make` in the folder you cloned to
